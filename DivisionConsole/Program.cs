@@ -7,7 +7,16 @@ namespace DivisionConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Division.Divide(10.5, 3.2));
+            double num1, num2;
+
+            Console.WriteLine("Introduce first number:");
+            num1 = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Introduce first number:");
+            num2 = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Result:");
+            Console.WriteLine(Division.Divide(num1,num2));
         }
     }
 }
