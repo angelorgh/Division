@@ -1,0 +1,16 @@
+E:\Proyectos\C#\Division\DivisionConsole\obj\Debug\netcoreapp3.1\DivisionConsole.csprojAssemblyReference.cache
+E:\Proyectos\C#\Division\DivisionConsole\obj\Debug\netcoreapp3.1\DivisionConsole.AssemblyInfoInputs.cache
+E:\Proyectos\C#\Division\DivisionConsole\obj\Debug\netcoreapp3.1\DivisionConsole.AssemblyInfo.cs
+E:\Proyectos\C#\Division\DivisionConsole\obj\Debug\netcoreapp3.1\DivisionConsole.csproj.CoreCompileInputs.cache
+E:\Proyectos\C#\Division\DivisionConsole\bin\Debug\netcoreapp3.1\DivisionConsole.exe
+E:\Proyectos\C#\Division\DivisionConsole\bin\Debug\netcoreapp3.1\DivisionConsole.deps.json
+E:\Proyectos\C#\Division\DivisionConsole\bin\Debug\netcoreapp3.1\DivisionConsole.runtimeconfig.json
+E:\Proyectos\C#\Division\DivisionConsole\bin\Debug\netcoreapp3.1\DivisionConsole.runtimeconfig.dev.json
+E:\Proyectos\C#\Division\DivisionConsole\bin\Debug\netcoreapp3.1\DivisionConsole.dll
+E:\Proyectos\C#\Division\DivisionConsole\bin\Debug\netcoreapp3.1\DivisionConsole.pdb
+E:\Proyectos\C#\Division\DivisionConsole\bin\Debug\netcoreapp3.1\DivisionServices.dll
+E:\Proyectos\C#\Division\DivisionConsole\bin\Debug\netcoreapp3.1\DivisionServices.pdb
+E:\Proyectos\C#\Division\DivisionConsole\obj\Debug\netcoreapp3.1\DivisionConsole.csproj.CopyComplete
+E:\Proyectos\C#\Division\DivisionConsole\obj\Debug\netcoreapp3.1\DivisionConsole.dll
+E:\Proyectos\C#\Division\DivisionConsole\obj\Debug\netcoreapp3.1\DivisionConsole.pdb
+E:\Proyectos\C#\Division\DivisionConsole\obj\Debug\netcoreapp3.1\DivisionConsole.genruntimeconfig.cache

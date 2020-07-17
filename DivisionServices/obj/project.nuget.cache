@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yRLbw5slO6H+YhHSM+r2kOt9pttATBqaZmNXFriGRGfHBKZEY1j0aaXqkVSx58RRaQ+1j3UNFPR4wWv8i07Obw==",
+  "success": true,
+  "projectFilePath": "E:\\Proyectos\\C#\\Division\\DivisionServices\\DivisionServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

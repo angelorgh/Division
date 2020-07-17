@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DivisionConsole/1.0.0": {
+        "dependencies": {
+          "DivisionServices": "1.0.0"
+        },
+        "runtime": {
+          "DivisionConsole.dll": {}
+        }
+      },
+      "DivisionServices/1.0.0": {
+        "runtime": {
+          "DivisionServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DivisionConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DivisionServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

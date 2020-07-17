@@ -1,0 +1,9 @@
+E:\Proyectos\C#\Division\DivisionServices\bin\Debug\netstandard2.0\DivisionServices.deps.json
+E:\Proyectos\C#\Division\DivisionServices\bin\Debug\netstandard2.0\DivisionServices.dll
+E:\Proyectos\C#\Division\DivisionServices\bin\Debug\netstandard2.0\DivisionServices.pdb
+E:\Proyectos\C#\Division\DivisionServices\obj\Debug\netstandard2.0\DivisionServices.csprojAssemblyReference.cache
+E:\Proyectos\C#\Division\DivisionServices\obj\Debug\netstandard2.0\DivisionServices.AssemblyInfoInputs.cache
+E:\Proyectos\C#\Division\DivisionServices\obj\Debug\netstandard2.0\DivisionServices.AssemblyInfo.cs
+E:\Proyectos\C#\Division\DivisionServices\obj\Debug\netstandard2.0\DivisionServices.csproj.CoreCompileInputs.cache
+E:\Proyectos\C#\Division\DivisionServices\obj\Debug\netstandard2.0\DivisionServices.dll
+E:\Proyectos\C#\Division\DivisionServices\obj\Debug\netstandard2.0\DivisionServices.pdb
